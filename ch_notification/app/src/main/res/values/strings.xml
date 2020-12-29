@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ch_notification</string>
+    <string name="title">Notification Sender</string>
+    <string name="btn">Send</string>
+</resources>
